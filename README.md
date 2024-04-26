@@ -1,3 +1,6 @@
+<img width="300" alt="Screenshot 2024-04-26 at 4 42 36 PM" src="https://github.com/novajhasley/frontiers-market-interview/assets/160355054/766abe33-c077-41d1-8e35-5aad41b9edd6">
+<img width="299" alt="Screenshot 2024-04-26 at 4 44 25 PM" src="https://github.com/novajhasley/frontiers-market-interview/assets/160355054/04919119-cbdf-4ee5-a2da-fe5becfc6f48">
+
 # How to Run the Flutter Application
 
 This guide will help you run the Flutter application on your local machine.
@@ -11,9 +14,9 @@ This guide will help you run the Flutter application on your local machine.
 
 ## Steps to Run the Application
 
-1. **Clone the repository**: Clone the repository to your local machine using the command `git clone <repository-url>`.
+1. **Clone the repository**: Clone the repository to your local machine using the command `git clone https://github.com/novajhasley/frontiers-market-interview.git`.
 
-2. **Navigate to the project directory**: Use the command `cd <project-directory>` to navigate to the project directory.
+2. **Navigate to the project directory**: Use the command `cd frontiers-market-interview` to navigate to the project directory.
 
 3. **Get the packages**: Run `flutter pub get` to fetch the necessary Dart packages for the project.
 

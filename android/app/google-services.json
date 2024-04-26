@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439689006882",
+    "project_id": "frontiers-market-interview",
+    "storage_bucket": "frontiers-market-interview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439689006882:android:ccce1a182984a3e72b5f7b",
+        "android_client_info": {
+          "package_name": "com.example.frontiers_market_interview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeJFDYY6JdNlTMw27jI_zTkhA5XWrP21g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
